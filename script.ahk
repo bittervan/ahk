@@ -1,0 +1,38 @@
+﻿Capslock::Esc
+Esc::Capslock
+
+!c::
+{
+    Send("^c")
+    return
+}
+!v::
+{
+    Send("^v")
+    return
+}
+!x::
+{
+    Send("^x")
+    return
+}
+!z::
+{
+    Send("^z")
+    return
+}
+!a::
+{
+    Send("^a")
+    return
+}
+!s::
+{
+    Send("^s")
+    return
+}
+!/::
+{
+    Send("^/")
+    return
+}
